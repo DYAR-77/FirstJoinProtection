@@ -1,0 +1,5 @@
+pom.xml
+src/main/java/me/dyar/firstjoinprotection/FirstJoinProtection.java
+src/main/java/me/dyar/firstjoinprotection/ProtectionListener.java
+src/main/resources/plugin.yml
+src/main/resources/config.yml
